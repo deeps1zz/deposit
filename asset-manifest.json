@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deposit/static/css/main.a1319d3e.css",
+    "main.js": "/deposit/static/js/main.37c8aa50.js",
+    "index.html": "/deposit/index.html",
+    "main.a1319d3e.css.map": "/deposit/static/css/main.a1319d3e.css.map",
+    "main.37c8aa50.js.map": "/deposit/static/js/main.37c8aa50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1319d3e.css",
+    "static/js/main.37c8aa50.js"
+  ]
+}
