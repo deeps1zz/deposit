@@ -1,0 +1,56 @@
+.main {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.label {
+  margin: 10px;
+  display: block;
+}
+
+.input {
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+
+.card_main {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.card_main_label {
+  display: block;
+  margin: 10px 0;
+}
+
+.card_main_label[type="number"] {
+  padding: 5px;
+  margin-left: 10px;
+  width: 80px;
+}
+
+.card_main_input {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
